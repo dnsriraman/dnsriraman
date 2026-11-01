@@ -1,225 +1,145 @@
 
-<!--
-  SRI RAMAN D N
-  Personal Developer Portfolio
-  Theme: Midnight / Champagne Gold
--->
-
 <div align="center">
 
-<sub>THE DIGITAL PORTFOLIO OF</sub>
+<!-- ANIMATED PREMIUM HEADER -->
 
-# SRI RAMAN D N
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:29304A,100:C8A96B&height=230&section=header&text=SRI%20RAMAN%20D%20N&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Innovator&descAlignY=59&descSize=17" alt="Animated portfolio header"/>
 
-### SOFTWARE DEVELOPER IN THE MAKING
+<!-- ANIMATED TYPING -->
 
-<em>Engineering ideas into meaningful experiences.</em>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:242938,100:111827&height=3&section=header" width="85%" alt="Decorative divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=25&duration=2800&pause=900&color=D5B778&center=true&vCenter=true&width=600&lines=Engineering+Ideas+Into+Reality;Designing+Tomorrow's+Technology;Building+With+Purpose;Learning+Without+Limits" alt="Animated developer introduction"/>
 
 <br><br>
 
-`COMPUTER SCIENCE` &nbsp; / &nbsp;
-`SOFTWARE ENGINEERING` &nbsp; / &nbsp;
-`INNOVATION`
-
-<br><br>
-
-**CHENNAI, INDIA**
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=C8A96B)
 
 </div>
-
-<br>
-
-## 001 — INTRODUCTION
-
-### A little about me.
-
-I'm **Sri Raman D N**, a Computer Science and
-Engineering student at **Vel Tech University**.
-
-I enjoy the process of transforming an idea into
-something functional, meaningful, and useful.
-
-My interests lie at the intersection of software
-engineering, intelligent systems, and
-real-world problem solving.
-
-I believe good engineering is not just about
-writing code.
-
-It's about understanding problems,
-designing thoughtful solutions,
-and improving through every iteration.
-
-<br>
-
-> "Build with purpose. Learn with curiosity.
-> Improve without limits."
-
-<br>
-
-## 002 — EXPERTISE
-
-### My technical toolkit.
-
-| Discipline | Technologies |
-|:---|:---|
-| **Languages** | Java, Python, C, SQL |
-| **Frontend** | React, TypeScript, HTML, CSS |
-| **Backend** | FastAPI, REST APIs |
-| **Databases** | MySQL, PostgreSQL |
-| **Developer Tools** | Git, GitHub, VS Code |
-| **Exploring** | AI, System Design, Cloud |
-
-<br>
-
-## 003 — MY APPROACH
-
-### How I think. How I build.
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 01
-
-**DISCOVER**
-
-Understand the problem before writing the solution.
-
-</td>
-<td width="33%" align="center">
-
-### 02
-
-**DEVELOP**
-
-Turn concepts into functional, thoughtful software.
-
-</td>
-<td width="33%" align="center">
-
-### 03
-
-**REFINE**
-
-Test, learn, optimize, and keep improving.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 004 — THE JOURNEY
-
-### Progress over perfection.
-
-```text
-2025 ─────── BEGIN
-              |
-              ├── Programming fundamentals
-              |
-              ├── Data structures & algorithms
-              |
-              ├── Database systems
-              |
-              ├── Full-stack exploration
-              |
-              ├── Real-world prototypes
-              |
-              └── Continuous improvement
-                          |
-                       FUTURE ∞
-```
-
-Every new challenge is an opportunity
-to become a better engineer.
-
-<br>
-
-## 005 — CURRENT DIRECTION
-
-### What I'm working towards.
-
-**01 / SOFTWARE ENGINEERING**
-
-Developing strong fundamentals in programming,
-architecture, and scalable applications.
-
-**02 / INTELLIGENT SYSTEMS**
-
-Exploring how AI can make software
-more capable and useful.
-
-**03 / PRODUCT THINKING**
-
-Learning to approach technology from
-both engineering and user perspectives.
-
-**04 / OPEN SOURCE**
-
-Growing towards contributing to
-the global developer community.
-
-<br>
-
-## 006 — GITHUB INSIGHTS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=D5B778&icon_color=D5B778" alt="GitHub statistics"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=D5B778" alt="Most used languages"/>
-
-<br><br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&color=D5B778&line=D5B778&point=FFFFFF" alt="Contribution activity"/>
-
-</div>
-
-<br>
-
-## 007 — BEYOND THE CODE
-
-### The bigger picture.
-
-Technology is constantly evolving.
-
-So am I.
-
-My goal is to build software that combines
-technical quality, thoughtful design,
-and practical impact.
-
-I'm interested in collaborating with people
-who are curious, ambitious, and willing
-to experiment.
-
-<br>
-
-## 008 — CONNECT
-
-<div align="center">
-
-### Have an idea worth building?
-
-I'm always interested in learning,
-collaboration, and meaningful conversations.
-
-[**EXPLORE MY GITHUB**](https://github.com/YOUR_USERNAME)
-
-<br><br>
 
 ---
 
-<sub>DESIGNED WITH INTENTION · BUILT WITH CURIOSITY</sub>
+## ✦ THE PERSON BEHIND THE CODE
 
-### SRI RAMAN D N
+```yaml
+identity:
+  name: Sri Raman D N
+  role: Computer Science Student
+  university: Vel Tech University
+  location: Chennai, India
 
-<sub>© 2026 · AN ONGOING JOURNEY</sub>
+vision:
+  - Engineer meaningful software
+  - Explore artificial intelligence
+  - Build useful digital products
+  - Never stop learning
+```
+
+I am a developer who believes that great software
+begins with curiosity and grows through experimentation.
+
+**My philosophy:**
+
+> Simplicity in design.
+> Precision in engineering.
+> Purpose in everything.
+
+---
+
+## ✦ MY TECHNOLOGY UNIVERSE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,react,ts,html,css,fastapi,mysql,postgres,git,github,vscode&perline=7&theme=dark" alt="Technology stack"/>
+
+</div>
+
+---
+
+## ✦ THE DEVELOPER MINDSET
+
+<div align="center">
+
+| DISCOVER | CREATE | EVOLVE |
+|:---:|:---:|:---:|
+| Explore ideas | Build solutions | Improve continuously |
+| Ask questions | Write code | Learn from feedback |
+| Understand needs | Test concepts | Refine experiences |
+
+</div>
+
+---
+
+## ✦ LIVE DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=D5B778&text_color=CCCCCC&icon_color=D5B778" alt="GitHub statistics"/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=D5B778&text_color=CCCCCC" alt="Top programming languages"/>
+
+<br>
+
+<img width="85%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=D5B778&fire=E7BD72&currStreakLabel=D5B778" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## ✦ CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=D5B778&line=C8A96B&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## ✦ ANIMATED CONTRIBUTION SNAKE
+
+<div align="center">
+
+<!-- Generated by GitHub Actions -->
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+
+</div>
+
+---
+
+## ✦ 3D CONTRIBUTION UNIVERSE
+
+<div align="center">
+
+<!-- Generated by GitHub Actions -->
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contributions"/>
+
+</div>
+
+---
+
+## ✦ MY NEXT CHAPTER
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2400&pause=1000&color=D5B778&center=true&vCenter=true&width=600&lines=Explore+new+technologies;Build+something+meaningful;Collaborate+with+great+minds;Keep+creating.+Keep+evolving." alt="Animated development goals"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### THE FUTURE IS BUILT, NOT WAITED FOR.
+
+*Code with intention. Create with imagination.*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_WORK-0D1117?style=for-the-badge&logo=github&logoColor=D5B778)](https://github.com/YOUR_USERNAME)
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:29304A,100:C8A96B&height=110&section=footer" alt="Portfolio footer"/>
 
 </div>
