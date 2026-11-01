@@ -148,7 +148,11 @@ developer:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dnsriraman&theme=github-compact" alt="GitHub Activity Graph"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Calendar"/>
+
+<br>
+
+[View my GitHub contribution activity](https://github.com/dnsriraman)
 
 </div>
 
@@ -168,17 +172,7 @@ developer:
 
 ---
 
-## ✦ 008 / 3D CONTRIBUTION UNIVERSE
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Calendar"/>
-
-</div>
-
----
-
-## ✦ 009 / MY FUTURE ROADMAP
+## ✦ 008 / MY FUTURE ROADMAP
 
 <div align="center">
 
@@ -188,7 +182,7 @@ developer:
 
 ---
 
-## ✦ 010 / LET'S CONNECT
+## ✦ 009 / LET'S CONNECT
 
 <div align="center">
 
