@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VISITORS&color=C8A96B&style=flat-square" alt="Profile Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=dnsriraman&label=PROFILE+VISITORS&color=C8A96B&style=flat-square" alt="Profile Visitors"/>
 
 <br>
 
@@ -132,13 +132,13 @@ developer:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=D5B778&icon_color=D5B778" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnsriraman&show_icons=true&theme=github_dark&hide_border=true&title_color=D5B778&icon_color=D5B778" alt="GitHub Stats"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=D5B778" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsriraman&layout=compact&theme=github_dark&hide_border=true&title_color=D5B778" alt="Top Languages"/>
 
 <br><br>
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=D5B778&fire=C8A96B&currStreakLabel=D5B778" alt="GitHub Streak"/>
+<img width="80%" src="https://streak-stats.demolab.com/?user=dnsriraman&theme=dark&hide_border=true&ring=D5B778&fire=C8A96B&currStreakLabel=D5B778" alt="GitHub Streak"/>
 
 </div>
 
@@ -148,7 +148,7 @@ developer:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" alt="GitHub Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dnsriraman&theme=github-compact" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -159,9 +159,9 @@ developer:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnsriraman/dnsriraman/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnsriraman/dnsriraman/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dnsriraman/dnsriraman/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
@@ -199,7 +199,7 @@ innovative software and meaningful projects.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/EXPLORE_MY_GITHUB-111827?style=for-the-badge&logo=github&logoColor=D5B778)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_GITHUB-111827?style=for-the-badge&logo=github&logoColor=D5B778)](https://github.com/dnsriraman)
 
 <br><br>
 
