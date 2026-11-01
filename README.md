@@ -132,13 +132,19 @@ developer:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnsriraman&show_icons=true&theme=github_dark&hide_border=true&title_color=D5B778&icon_color=D5B778" alt="GitHub Stats"/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsriraman&layout=compact&theme=github_dark&hide_border=true&title_color=D5B778" alt="Top Languages"/>
+<a href="https://github.com/dnsriraman?tab=repositories">
+  <img src="https://img.shields.io/github/followers/dnsriraman?style=for-the-badge&logo=github&label=Followers&color=C8A96B" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/dnsriraman?tab=repositories">
+  <img src="https://img.shields.io/github/stars/dnsriraman?style=for-the-badge&logo=github&label=Stars&color=C8A96B" alt="Stars across my repositories"/>
+</a>
+<a href="https://github.com/dnsriraman?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdnsriraman&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=C8A96B" alt="Public repositories"/>
+</a>
 
 <br><br>
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=dnsriraman&theme=dark&hide_border=true&ring=D5B778&fire=C8A96B&currStreakLabel=D5B778" alt="GitHub Streak"/>
+[Explore my repositories and languages](https://github.com/dnsriraman?tab=repositories)
 
 </div>
 
